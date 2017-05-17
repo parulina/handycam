@@ -1,0 +1,24 @@
+id ICON "icon.ico"
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", ""
+      VALUE "FileDescription", "8mm Handycam Interface"
+      VALUE "FileVersion", "0.1.0.0"
+      VALUE "InternalName", ""
+      VALUE "LegalCopyright", ""
+      VALUE "OriginalFilename", "handycam.exe"
+      VALUE "ProductName", ""
+      VALUE "ProductVersion", "0.1.0.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END
